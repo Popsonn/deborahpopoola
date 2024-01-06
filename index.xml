@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hello World! on Deborah Popoola</title>
+    <link>https://Popsonn.github.io/deborahpopoola/</link>
+    <description>Recent content in Hello World! on Deborah Popoola</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
+    <atom:link href="https://Popsonn.github.io/deborahpopoola/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>https://Popsonn.github.io/deborahpopoola/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://Popsonn.github.io/deborahpopoola/about/</guid>
+      <description>Unraveling complex data is my forte. Using SQL, Python, and Power BI, I navigate disparate sources, uncover hidden patterns, and build predictive models that solve real-world challenges. Fueled by curiosity and continuous learning, I&amp;rsquo;m a highly motivated data professional eager to blend meticulous analysis with innovative problem-solving. I&amp;rsquo;m your ideal partner for transforming data into actionable strategies and evolving to meet your needs.</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>https://Popsonn.github.io/deborahpopoola/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://Popsonn.github.io/deborahpopoola/contact/</guid>
+      <description>Let&amp;rsquo;s Connect on these platforms&#xA;linkedIn:| https://www.linkedin.com/in/deborahpopoola github:| https://github.com/Popsonn mail:| deborahopepopoola@gmail.com</description>
+    </item>
+    <item>
+      <title>Project 1: Hate Speech Classification</title>
+      <link>https://Popsonn.github.io/deborahpopoola/post/chapter-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://Popsonn.github.io/deborahpopoola/post/chapter-1/</guid>
+      <description>In this project, I addressed the challenging task of hate speech classification using a publicly available dataset. The initial stage involved thorough data preprocessing, including removal of irrelevant characters, lowercasing, tokenization, stop word removal, and stemming. This ensured consistency and improved feature representation.&#xA;For extracting features, I employed two techniques: TF-IDF and CountVectorizer. TF-IDF considers both term frequency and document frequency, while CountVectorizer focuses solely on word frequency. This multifaceted approach aimed to capture different aspects of the textual data.</description>
+    </item>
+    <item>
+      <title>Project 2: Malaria Rate Incidence Predictive Model</title>
+      <link>https://Popsonn.github.io/deborahpopoola/post/chapter-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://Popsonn.github.io/deborahpopoola/post/chapter-2/</guid>
+      <description>As a Hamoye intern, I actively participated in a collaborative project to develop a predictive model for malaria incidence rates. This ambitious effort aimed to enhance malaria control strategies by leveraging data-driven insights.&#xA;link to github repository</description>
+    </item>
+    <item>
+      <title>Project 3: Danny Ma&#39;s 8 weeks SQL Challenge </title>
+      <link>https://Popsonn.github.io/deborahpopoola/post/chapter-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://Popsonn.github.io/deborahpopoola/post/chapter-3/</guid>
+      <description>Unlocked the power of SQL! I crushed Danny Ma&amp;rsquo;s 8-Week Challenge, mastering both fundamental and advanced techniques through real-world scenarios. From optimizing retail inventory to predicting customer behavior, I tackled diverse business challenges head-on, showcasing my proficiency in database manipulation, data analysis, and creative problem-solving. Ready to see how I leverage SQL for impactful insights and strategic decision-making? Explore my solutions and prepare to be amazed!&#xA;github repo</description>
+    </item>
+    <item>
+      <title>Project 4: Data Cleaning in Python</title>
+      <link>https://Popsonn.github.io/deborahpopoola/post/chapter-4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://Popsonn.github.io/deborahpopoola/post/chapter-4/</guid>
+      <description>In a world overflowing with data, unlocking its hidden insights often demands a meticulous cleansing process. In this project, I wielded the power of Python to transform a messy, unruly dataset into a pristine foundation for knowledge discovery.&#xA;Filling missing values strategically, ensuring consistency and preserving trends. Detecting and correcting anomalies, ensuring data reliability for accurate analysis. Reshaping and merging disparate sources, crafting a unified, comprehensive dataset. Taming unruly data types, ensuring compatibility for downstream analysis.</description>
+    </item>
+    <item>
+      <title>Project 5: Bank telemarketing success</title>
+      <link>https://Popsonn.github.io/deborahpopoola/post/chapter-5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://Popsonn.github.io/deborahpopoola/post/chapter-5/</guid>
+      <description>This project leveraged machine learning to predict client propensity to subscribe to term deposits, utilizing historical marketing campaign data and client information. Through analysis and model development, I aimed to enhance bank marketing effectiveness and optimize campaign resources.&#xA;view project</description>
+    </item>
+    <item>
+      <title>Project 6: Data Analysis and Visualization in Power Bi</title>
+      <link>https://Popsonn.github.io/deborahpopoola/post/chapter-6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://Popsonn.github.io/deborahpopoola/post/chapter-6/</guid>
+      <description>I successfully tackled the challenges posed by the Splendor Hotel Groups (SHG) booking data through adept data visualization techniques. Navigating intricate details, I leveraged visualizations to uncover booking patterns, consumer behavior insights, and strategic recommendations. My comprehensive analysis, showcased through dashboards, unveils the story within the data, providing actionable insights to enhance SHG&amp;rsquo;s hospitality endeavors.</description>
+    </item>
+    <item>
+      <title>Project 7: Telco Customer Churn</title>
+      <link>https://Popsonn.github.io/deborahpopoola/post/chapter-7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://Popsonn.github.io/deborahpopoola/post/chapter-7/</guid>
+      <description>Embarking on a journey to understand and tackle customer churn, I delved into the realm of telecommunications data armed with Excel for meticulous analysis and Power BI for compelling visualization. This project aimed to uncover patterns, identify key factors influencing customer churn, and pave the way for strategic interventions.</description>
+    </item>
+    <item>
+      <title>Project 8: Olist E-commerce Analysis</title>
+      <link>https://Popsonn.github.io/deborahpopoola/post/chapter-8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://Popsonn.github.io/deborahpopoola/post/chapter-8/</guid>
+      <description>Unlocking Insights for Growth: Delved into the Olist sales dataset to provide valuable answers to crucial business questions. From total revenue trends to product categories, customer behaviors, and marketing strategy optimization, this analysis aimed to empower Olist with actionable insights for e-commerce success.&#xA;link to github repository</description>
+    </item>
+    <item>
+      <title>Project 9: Movies Rental Business Acquisition Analysis</title>
+      <link>https://Popsonn.github.io/deborahpopoola/post/chapter-9/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://Popsonn.github.io/deborahpopoola/post/chapter-9/</guid>
+      <description>Using advanced SQL skills, I navigated the Movies Database, crafting multi-table queries to unveil crucial insights. This project showcases my ability to extract and analyze data systematically, providing valuable information essential for informed decision-making in the acquisition process.&#xA;link to github repository</description>
+    </item>
+  </channel>
+</rss>
