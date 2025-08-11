@@ -9,11 +9,11 @@
     <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
     <atom:link href="https://Popsonn.github.io/deborahpopoola/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Project 1: Hate Speech Classification</title>
-      <link>https://Popsonn.github.io/deborahpopoola/post/chapter-1/</link>
+      <title>BiochemRAG: Domain-Specific Biochemistry RAG System</title>
+      <link>https://Popsonn.github.io/deborahpopoola/post/biochem-rag/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://Popsonn.github.io/deborahpopoola/post/chapter-1/</guid>
-      <description>In this project, I addressed the challenging task of hate speech classification using a publicly available dataset. The initial stage involved thorough data preprocessing, including removal of irrelevant characters, lowercasing, tokenization, stop word removal, and stemming. This ensured consistency and improved feature representation.&#xA;For extracting features, I employed two techniques: TF-IDF and CountVectorizer. TF-IDF considers both term frequency and document frequency, while CountVectorizer focuses solely on word frequency. This multifaceted approach aimed to capture different aspects of the textual data.</description>
+      <guid>https://Popsonn.github.io/deborahpopoola/post/biochem-rag/</guid>
+      <description>Developed a specialized Retrieval-Augmented Generation system for biochemistry education, targeting amino acid and nucleotide biosynthesis from Lehninger Principles of Biochemistry. Built with Mistral-7B-Instruct, sentence-transformers, and ChromaDB for semantic search and scientifically accurate response generation.</description>
     </item>
     <item>
       <title>Project 2: Malaria Rate Incidence Predictive Model</title>
