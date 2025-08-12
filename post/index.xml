@@ -30,18 +30,18 @@
       <description>Unlocked the power of SQL! I crushed Danny Ma&amp;rsquo;s 8-Week Challenge, mastering both fundamental and advanced techniques through real-world scenarios. From optimizing retail inventory to predicting customer behavior, I tackled diverse business challenges head-on, showcasing my proficiency in database manipulation, data analysis, and creative problem-solving. Ready to see how I leverage SQL for impactful insights and strategic decision-making? Explore my solutions and prepare to be amazed!&#xA;github repo</description>
     </item>
     <item>
-      <title>Project 4: Data Cleaning in Python</title>
-      <link>https://Popsonn.github.io/deborahpopoola/post/chapter-4/</link>
+      <title>Intelligent Food Assistant Chatbot with Rasa Framework</title>
+      <link>https://Popsonn.github.io/deborahpopoola/post/food-chatbot/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://Popsonn.github.io/deborahpopoola/post/chapter-4/</guid>
-      <description>In a world overflowing with data, unlocking its hidden insights often demands a meticulous cleansing process. In this project, I wielded the power of Python to transform a messy, unruly dataset into a pristine foundation for knowledge discovery.&#xA;Filling missing values strategically, ensuring consistency and preserving trends. Detecting and correcting anomalies, ensuring data reliability for accurate analysis. Reshaping and merging disparate sources, crafting a unified, comprehensive dataset. Taming unruly data types, ensuring compatibility for downstream analysis.</description>
+      <guid>https://Popsonn.github.io/deborahpopoola/post/food-chatbot/</guid>
+      <description>Built a conversational AI assistant using Rasa framework with natural language understanding capabilities. Integrated with Spoonacular API for recipe search, nutritional analysis, meal planning, and wine pairing suggestions. Deployed on Slack for seamless workplace accessibility.</description>
     </item>
     <item>
-      <title>Project 5: Bank telemarketing success</title>
-      <link>https://Popsonn.github.io/deborahpopoola/post/chapter-5/</link>
+      <title>Neural Text Summarization with Fine-tuned BART</title>
+      <link>https://Popsonn.github.io/deborahpopoola/post/text-summarisation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://Popsonn.github.io/deborahpopoola/post/chapter-5/</guid>
-      <description>This project leveraged machine learning to predict client propensity to subscribe to term deposits, utilizing historical marketing campaign data and client information. Through analysis and model development, I aimed to enhance bank marketing effectiveness and optimize campaign resources.&#xA;view project</description>
+      <guid>https://Popsonn.github.io/deborahpopoola/post/text-summarisation/</guid>
+      <description>Fine-tuned Facebook's BART-large-CNN model for domain-specific text summarization using custom dataset. Implemented end-to-end pipeline including data preprocessing, model fine-tuning with Hugging Face Transformers, and evaluation on 100 test samples with optimized generation parameters.</description>
     </item>
     <item>
       <title>Project 6: Data Analysis and Visualization in Power Bi</title>
