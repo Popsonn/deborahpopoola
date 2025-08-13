@@ -30,11 +30,11 @@
       <description>Developed a specialized Retrieval-Augmented Generation system for biochemistry education, targeting amino acid and nucleotide biosynthesis from Lehninger Principles of Biochemistry. Built with Mistral-7B-Instruct, sentence-transformers, and ChromaDB for semantic search and scientifically accurate response generation.</description>
     </item>
     <item>
-      <title>Project 2: Malaria Rate Incidence Predictive Model</title>
-      <link>https://Popsonn.github.io/deborahpopoola/post/chapter-2/</link>
+      <title>Malaria Incidence Rate Predictive Model</title>
+      <link>https://Popsonn.github.io/deborahpopoola/post/malaria-prediction/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://Popsonn.github.io/deborahpopoola/post/chapter-2/</guid>
-      <description>As a Hamoye intern, I actively participated in a collaborative project to develop a predictive model for malaria incidence rates. This ambitious effort aimed to enhance malaria control strategies by leveraging data-driven insights.&#xA;link to github repository</description>
+      <guid>https://Popsonn.github.io/deborahpopoola/post/malaria-prediction/</guid>
+      <description>Developed an advanced machine learning model to predict malaria incidence rates across Africa as part of Team GitLab "The Visionaries" during Hamoye internship. Conducted spatial analysis using Global Moran's statistics, integrated population-based metrics, and achieved high R² scores to enable proactive outbreak prediction and precision-targeted control strategies.</description>
     </item>
     <item>
       <title>Multi-Agent Adverse Media Screening System for FATF Compliance</title>
