@@ -58,11 +58,11 @@
       <description>Fine-tuned Facebook's BART-large-CNN model for domain-specific text summarization using custom dataset. Implemented end-to-end pipeline including data preprocessing, model fine-tuning with Hugging Face Transformers, and evaluation on 100 test samples with optimized generation parameters.</description>
     </item>
     <item>
-      <title>Project 6: Data Analysis and Visualization in Power Bi</title>
-      <link>https://Popsonn.github.io/deborahpopoola/post/chapter-6/</link>
+      <title>Deepseek-R1-Distill-Llama-70b RAG System for Mental Health Research</title>
+      <link>https://Popsonn.github.io/deborahpopoola/post/mental-health-rag/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://Popsonn.github.io/deborahpopoola/post/chapter-6/</guid>
-      <description>I successfully tackled the challenges posed by the Splendor Hotel Groups (SHG) booking data through adept data visualization techniques. Navigating intricate details, I leveraged visualizations to uncover booking patterns, consumer behavior insights, and strategic recommendations. My comprehensive analysis, showcased through dashboards, unveils the story within the data, providing actionable insights to enhance SHG&amp;rsquo;s hospitality endeavors.</description>
+      <guid>https://Popsonn.github.io/deborahpopoola/post/mental-health-rag/</guid>
+      <description>Developed a specialized Retrieval-Augmented Generation system leveraging Deepseek-R1-Distill-Llama-70b to analyze 504,913 PubMed articles on suicide, mental health, and depression. Built with HuggingFace embeddings, FAISS vector storage, and advanced LLM integration to provide evidence-based insights for researchers, clinicians, and policymakers.</description>
     </item>
     <item>
       <title>Project 7: Telco Customer Churn</title>
