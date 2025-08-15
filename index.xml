@@ -71,6 +71,7 @@
       <guid>https://Popsonn.github.io/deborahpopoola/post/dsm-5-tr-rag/</guid>
       <description>Developed a specialized Retrieval-Augmented Generation system that transforms how mental health clinicians access DSM-5-TR diagnostic information. Using advanced semantic search and intelligent document processing, the system reduces diagnostic lookup time from minutes to seconds while maintaining clinical accuracy. Enables natural language queries like "What are the diagnostic criteria for Acute Stress Disorder?" with sub-second response times.</description>
     </item>
+    <!--
     <item>
       <title>Project 8: Olist E-commerce Analysis</title>
       <link>https://Popsonn.github.io/deborahpopoola/post/chapter-8/</link>
@@ -85,5 +86,6 @@
       <guid>https://Popsonn.github.io/deborahpopoola/post/chapter-9/</guid>
       <description>Using advanced SQL skills, I navigated the Movies Database, crafting multi-table queries to unveil crucial insights. This project showcases my ability to extract and analyze data systematically, providing valuable information essential for informed decision-making in the acquisition process.&#xA;link to github repository</description>
     </item>
+    -->
   </channel>
 </rss>
