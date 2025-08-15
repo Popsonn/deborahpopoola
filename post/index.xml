@@ -51,11 +51,11 @@
       <description>Developed a specialized Retrieval-Augmented Generation system leveraging Deepseek-R1-Distill-Llama-70b to analyze 504,913 PubMed articles on suicide, mental health, and depression. Built with HuggingFace embeddings, FAISS vector storage, and advanced LLM integration to provide evidence-based insights for researchers, clinicians, and policymakers.</description>
     </item>
     <item>
-      <title>Project 7: Telco Customer Churn</title>
-      <link>https://Popsonn.github.io/deborahpopoola/post/chapter-7/</link>
+      <title>DSM-5-TR Clinical RAG System for Trauma & Stress Disorders</title>
+      <link>https://Popsonn.github.io/deborahpopoola/post/dsm-5-tr-rag/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://Popsonn.github.io/deborahpopoola/post/chapter-7/</guid>
-      <description>Embarking on a journey to understand and tackle customer churn, I delved into the realm of telecommunications data armed with Excel for meticulous analysis and Power BI for compelling visualization. This project aimed to uncover patterns, identify key factors influencing customer churn, and pave the way for strategic interventions.</description>
+      <guid>https://Popsonn.github.io/deborahpopoola/post/dsm-5-tr-rag/</guid>
+      <description>Developed a specialized Retrieval-Augmented Generation system that transforms how mental health clinicians access DSM-5-TR diagnostic information. Using advanced semantic search and intelligent document processing, the system reduces diagnostic lookup time from minutes to seconds while maintaining clinical accuracy. Enables natural language queries like "What are the diagnostic criteria for Acute Stress Disorder?" with sub-second response times.</description>
     </item>
     <item>
       <title>Project 8: Olist E-commerce Analysis</title>
